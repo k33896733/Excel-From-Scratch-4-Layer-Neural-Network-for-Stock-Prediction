@@ -11,6 +11,7 @@ The model is trained on historical stock data to predict the day closing price (
 - Output: 1 value  
 - Hidden layers: 3 layers with Leaky ReLU activation (configurable slope α)  
 - Training: Mini-batch gradient descent with L2 weight decay and batch normalization
+
 **Note**: Indeed, I have tried different combination , but the performances are not good, so I just randomly pick one for illustration purpose
 
 **Performance**
@@ -33,7 +34,7 @@ A key validation test is that when **one of the input features is set to the tar
 
 Neural networks are computational models inspired by biological neural systems. They learn to map inputs to desired outputs by iteratively adjusting internal parameters (weights and biases) through training.
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c52af275-b87a-4c68-a998-6c426edfe3c5" />
+<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/c52af275-b87a-4c68-a998-6c426edfe3c5" />
 
 ### Basic Unit — Neuron
 
