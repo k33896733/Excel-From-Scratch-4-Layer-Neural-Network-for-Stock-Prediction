@@ -2,8 +2,7 @@
 
 This project originated from my interest in understanding the inner workings of neural network (NN) without relying on high-level frameworks like TensorFlow or PyTorch. I chose VBA within Excel for the following reasons:
 
-- **Accessibility** — Excel is widely available, requiring no additional installation for basic use.  _(And I can study it during my office time)_
-- **Transparency** — All computations occur visibly in cells or via VBA code, making it ideal for educational purposes and debugging.
+- **Accessibility** — Excel is widely available, requiring no additional installation for basic use.  _(And I can study it during my office time)
 -  **Neuron-level visibility** — Each cell in sheet "Forward" and "Backward" can directly represent an individual neuron or intermediate value, offering unparalleled educational clarity.
 
 **The Model**
